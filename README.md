@@ -1,4 +1,4 @@
-# KoTranslate 1.3.9.9
+# KoTranslate 1.3.9.20
 
 轻量的 KOReader 翻译与辅助阅读插件。
 
